@@ -1,0 +1,68 @@
+[
+    {
+        "id": "1",
+        "name": "Angel Di Maria",
+        "img": "https://media.istockphoto.com/id/1393223576/photo/a-smartly-dressed-indian-chef-looking-at-the-camera.jpg?s=1024x1024&w=is&k=20&c=uezu6I2beJ1JlbDM7DmeRXqgNPuvAiCkOHWy4VqM4FA=",
+        "banner": "https://images.pexels.com/photos/2696064/pexels-photo-2696064.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "experience": "10 years",
+        "recipies": "6",
+        "likes": "265",
+        "bio": "Angel Di Maria is a talented chef with a passion for farm-to-table cooking. Born and raised in a small town in the Midwest, she grew up with a deep appreciation for fresh, local ingredients. After completing culinary school, Alice worked at a number of top restaurants before opening her own farm-to-table bistro. Her dishes are known for their vibrant flavors and beautiful presentation, showcasing the best ingredients that the season has to offer. Alice is also a vocal advocate for sustainable farming practices and is passionate about educating others on the importance of eating locally and seasonally."
+
+    },
+    {
+        "id": "2",
+        "name": "Lionel Messi",
+        "img": "https://preview.redd.it/w2ucn8k7hqy11.jpg?width=640&crop=smart&auto=webp&s=4f3511293a8fe3aaeef6a2d02abb280e4c98ccf1",
+        "banner": "https://images.pexels.com/photos/1267320/pexels-photo-1267320.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "experience": "7years",
+        "recipies": "4",
+        "likes": "320",
+        "bio": "Lionel messi is a talented chef with a passion for farm-to-table cooking. Born and raised in a small town in the Midwest, she grew up with a deep appreciation for fresh, local ingredients. After completing culinary school, Alice worked at a number of top restaurants before opening her own farm-to-table bistro. Her dishes are known for their vibrant flavors and beautiful presentation, showcasing the best ingredients that the season has to offer. Alice is also a vocal advocate for sustainable farming practices and is passionate about educating others on the importance of eating locally and seasonally."
+
+    },
+    {
+        "id": "3",
+        "name": "Paulo Dybala",
+        "img": "https://bloximages.newyork1.vip.townnews.com/dailyadvance.com/content/tncms/assets/v3/editorial/a/4e/a4e162c7-ae19-55a6-be11-8805463c2e82/63fbd0c3d3a95.image.jpg",
+        "banner": "https://images.pexels.com/photos/2544829/pexels-photo-2544829.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "experience": "4years",
+        "recipies": "4",
+        "likes": "25",
+        "bio": "Paulo Dybala is a talented chef with a passion for farm-to-table cooking. Born and raised in a small town in the Midwest, she grew up with a deep appreciation for fresh, local ingredients. After completing culinary school, Alice worked at a number of top restaurants before opening her own farm-to-table bistro. Her dishes are known for their vibrant flavors and beautiful presentation, showcasing the best ingredients that the season has to offer. Alice is also a vocal advocate for sustainable farming practices and is passionate about educating others on the importance of eating locally and seasonally."
+
+    },
+    {
+        "id": "4",
+        "name": "Lautaro Martinez",
+        "img": "https://media.licdn.com/dms/image/C5603AQFoFK5LCLOeAA/profile-displayphoto-shrink_800_800/0/1634766947327?e=2147483647&v=beta&t=wsulj3GOtTp2IcaugiwKpx2y2vc0IJjwVLgXUkwMdtc",
+        "banner": "https://images.pexels.com/photos/4253703/pexels-photo-4253703.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "experience": "2years",
+        "recipies": "3",
+        "likes": "65",
+        "bio": "Lautaro Martinez is a talented chef with a passion for farm-to-table cooking. Born and raised in a small town in the Midwest, she grew up with a deep appreciation for fresh, local ingredients. After completing culinary school, Alice worked at a number of top restaurants before opening her own farm-to-table bistro. Her dishes are known for their vibrant flavors and beautiful presentation, showcasing the best ingredients that the season has to offer. Alice is also a vocal advocate for sustainable farming practices and is passionate about educating others on the importance of eating locally and seasonally."
+
+    },
+    {
+        "id": "5",
+        "name": "Marcos Acuna",
+        "img": "https://s.yimg.com/ny/api/res/1.2/wM01fvMIzDO1xaeo4j4IjA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://media.zenfs.com/en-US/homerun/food_wine_804/7fc658a0b533908a3519b5168cc9f2ab",
+        "banner": "https://images.pexels.com/photos/16018410/pexels-photo-16018410.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "experience": "10years",
+        "recipies": "3",
+        "likes": "26",
+        "bio": "Marcos Acuna is a talented chef with a passion for farm-to-table cooking. Born and raised in a small town in the Midwest, she grew up with a deep appreciation for fresh, local ingredients. After completing culinary school, Alice worked at a number of top restaurants before opening her own farm-to-table bistro. Her dishes are known for their vibrant flavors and beautiful presentation, showcasing the best ingredients that the season has to offer. Alice is also a vocal advocate for sustainable farming practices and is passionate about educating others on the importance of eating locally and seasonally."
+
+    },
+    {
+        "id": "6",
+        "name": "Cristian Romero",
+        "img": "https://i2-prod.nottinghampost.com/incoming/article7095313.ece/ALTERNATES/s1200c/1_no-so-vast-food-829137-1.jpg",
+        "banner": "https://images.pexels.com/photos/3769999/pexels-photo-3769999.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "experience": "5 years",
+        "recipies": "3",
+        "likes": "455",
+        "bio": "Cristian Romero is a talented chef with a passion for farm-to-table cooking. Born and raised in a small town in the Midwest, she grew up with a deep appreciation for fresh, local ingredients. After completing culinary school, Alice worked at a number of top restaurants before opening her own farm-to-table bistro. Her dishes are known for their vibrant flavors and beautiful presentation, showcasing the best ingredients that the season has to offer. Alice is also a vocal advocate for sustainable farming practices and is passionate about educating others on the importance of eating locally and seasonally."
+
+    } 
+]
